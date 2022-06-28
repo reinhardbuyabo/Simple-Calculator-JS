@@ -70,3 +70,9 @@ input[type=text] {
 	color: #ffffff !important;
 	
 }
+
+#del {
+	justify-content: center;
+	align-items: center;
+	margin: -25px 25px;
+}
